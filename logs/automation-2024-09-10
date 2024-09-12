@@ -1,0 +1,59 @@
+17:37:51.068 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:37:51.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:38:21.602 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:38:22.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:40:10.213 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:40:10.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:41:23.519 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:41:23.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:41:28.839 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test started ***
+17:41:28.977 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Myaccount link ***
+17:41:29.636 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Register link ***
+17:41:29.636 [main] INFO  testCases.TC001_RegistrationPageTest - *** Enter Customer Details***
+17:41:31.501 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test Completed ***
+17:41:35.639 [main] INFO  testCases.TC002_LoginPageTest - *** TC002_LoginPageTest started ***
+17:47:06.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:47:06.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:47:11.772 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test started ***
+17:47:11.905 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Myaccount link ***
+17:47:12.545 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Register link ***
+17:47:12.545 [main] INFO  testCases.TC001_RegistrationPageTest - *** Enter Customer Details***
+17:47:14.373 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test Completed ***
+17:47:18.268 [main] INFO  testCases.TC002_LoginPageTest - *** TC002_LoginPageTest started ***
+17:48:28.459 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:48:28.936 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:48:33.829 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test started ***
+17:48:33.971 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Myaccount link ***
+17:48:34.629 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Register link ***
+17:48:34.630 [main] INFO  testCases.TC001_RegistrationPageTest - *** Enter Customer Details***
+17:48:36.544 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test Completed ***
+17:48:40.630 [main] INFO  testCases.TC002_LoginPageTest - *** TC002_LoginPageTest started ***
+17:49:49.322 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+17:49:49.781 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+17:49:55.628 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test started ***
+17:49:55.861 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Myaccount link ***
+17:49:56.519 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Register link ***
+17:49:56.520 [main] INFO  testCases.TC001_RegistrationPageTest - *** Enter Customer Details***
+17:49:58.812 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test Completed ***
+17:50:03.681 [main] INFO  testCases.TC002_LoginPageTest - *** TC002_LoginPageTest started ***
+18:01:21.136 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml"
+18:01:21.639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\Java Selenium\seleniumpageObjectModel\OpenCart\gropping.xml
+
+18:01:26.487 [main] INFO  testCases.TC001_RegistrationPageTest - *** TC001_RegistrationPageTest Test started ***
+18:01:26.682 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Myaccount link ***
+18:01:27.323 [main] INFO  testCases.TC001_RegistrationPageTest - *** Click on Register link ***
